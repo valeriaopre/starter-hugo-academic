@@ -14,13 +14,13 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://https://github.com/valeriaopre
+    link: https://github.com/valeriaopre
   - icon: linkedin
     icon_pack: fab
-    link: https://https://www.linkedin.com/in/valeriaopre/
+    link: https://www.linkedin.com/in/valeriaopre/
 organizations:
   - name: London Business School
-    url: https://https://www.london.edu/
+    url: https://www.london.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
