@@ -1,6 +1,7 @@
 ---
 title: Valeria Opre
-role: Professor of Artificial Intelligence
+role: London Business School
+avatar_filename: 11opre.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
