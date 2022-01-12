@@ -1,6 +1,6 @@
 ---
 title: Valeria Opre
-role: London Business School
+role: ""
 avatar_filename: 11opre.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
