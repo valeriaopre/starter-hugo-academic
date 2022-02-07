@@ -36,6 +36,11 @@ feature:
   icon: mysql
   icon_pack: custom
   name: MySQL
+- description: 25%
+  icon: snowboarding-solid
+  icon_pack: fas
+  name: Surfing
+
  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
