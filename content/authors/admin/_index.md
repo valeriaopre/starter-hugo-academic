@@ -1,7 +1,7 @@
 ---
 title: Valeria Opre
 role: ""
-avatar_filename: 11opre.png
+avatar_filename: 11opre-.jpeg
 bio: An Analytics student with a drive for technology and finance. Located in
   London, lived in four different countries!
 interests:
