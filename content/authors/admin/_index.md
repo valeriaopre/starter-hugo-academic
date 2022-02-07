@@ -43,10 +43,9 @@ I decided to move out and live in Vienna, where i first completed my Bachelors i
 
 Before applying for my postgraduate studies in London I decided to pursue two internships to better shape my future goals: 
 
-+ As a *research consultant* for **Action Institute**, a renowned economic and political NGO in Milan 
-
-+ As an *equity analyst* for **Wutis**, winning two pitching competitions with McKinsey.
+* As a *research consultant* for **Action Institute**, a renowned economic and political NGO in Milan 
+* As an *equity analyst* for **Wutis**, winning two pitching competitions with McKinsey.
 
 Arriving to London for my Masters at LBS I am excited to learn more programming languages and how to use them to make more strategic business decisions!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/[ValeriaOpre_CV.pdf](https://github.com/valeriaopre/starter-hugo-academic/blob/master/exampleSite/static/uploads/ValeriaOpre_CV.pdf "ValeriaOpre_CV.pdf").pdf" "newtab" >}}resumé{{< /staticref >}}.
