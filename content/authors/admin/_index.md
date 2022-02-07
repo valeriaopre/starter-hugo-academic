@@ -23,15 +23,15 @@ organizations:
     url: https://www.london.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MsC Analytics and Management
+      institution: London Business School
+      year: 2021
+    - course: "BsC International Business Administration "
+      institution: "Vienna University "
+      year: 2016
+    - course: BA Political Science
+      institution: University of Vienna (Hauptuniversität Wien)
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
