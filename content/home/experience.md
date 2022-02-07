@@ -45,7 +45,8 @@ experience:
     date_start: '2020-10-01'
     date_end: '2021-07-01'
     description: |2-
-    
+        Responsibilities included:
+
          Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
          largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
          for equity reports evaluated according to the official CFA.
@@ -58,8 +59,8 @@ experience:
     date_start: '2020-10-01'
     date_end: '2020-03-01'
     description: |2- 
-    
-     Responsibilities included:
+  
+      Responsibilities included:
      
         * Leding and supervising transition from a B2C to a B2B business model from 2020-2021 to adapt to
           disruption caused by pandemic and national restrictive measures for businesses
