@@ -30,7 +30,7 @@ experience:
     date_start: '2021-01-02'
     date_end: '2021-07-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
         * Designed engagement tools to increase to communicate to audience,
           increasing the visibility of publications by +15% in six months
@@ -44,9 +44,11 @@ experience:
     location: Vienna, Austria
     date_start: '2020-10-01'
     date_end: '2021-07-01'
-    description: Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
-    largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
-    for equity reports evaluated according to the official CFA.
+    description: |2-
+    
+         Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
+         largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
+         for equity reports evaluated according to the official CFA.
     
  - title: Operations Management
     company: Hotel Casagrande ★★★
@@ -55,7 +57,8 @@ experience:
     location: Bolzano, Italy
     date_start: '2020-10-01'
     date_end: '2020-03-01'
-    description: Helped a family run small-medium hospitality enterprise adapt to disruptive Covid-19 regulations
+    description: |2- 
+    
      Responsibilities included:
      
         * Leding and supervising transition from a B2C to a B2B business model from 2020-2021 to adapt to
@@ -70,8 +73,7 @@ experience:
     location: Vienna, Austria
     date_start: '2020-10-01'
     date_end: '2020-03-01'
-    description: Leading European Agency that promotes educational know-how about international and European
-    issues
+    description: |2-
      Responsibilities included:
      
         * Leding a team of three into organising panels with prominent figures of the European Institutions such as
