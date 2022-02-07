@@ -36,16 +36,16 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-My name is **Valeria Opre**, I am 24 years old and I grew up in the German speaking region of Italy, South Tyrol. I went to the Italian highschool *Liceo Scientifico Torricelli*.
+My name is **Valeria Opre**, I am 25 years old and I grew up in the German-speaking region of Italy, South Tyrol. I went to the Italian high school *Liceo Scientifico Torricelli*.
 
 \
-I decided to move out and live in Vienna, where i first completed my Bachelors in *Political Science* and then graduated with honours in *Business, Economics and Social Sciences* at the Vienna University of Economics and Business. During this time I had the great chance to do an exchange semester at the SMU in Singapore.
+I decided to move out and live in Vienna, where I first completed my Bachelors in *Political Science* and then graduated with honours in *Business, Economics and Social Sciences* at the Vienna University of Economics and Business. During this time I had the great chance to do an exchange semester at the SMU in Singapore.
 
 Before applying for my postgraduate studies in London I decided to pursue two internships to better shape my future goals: 
 
 * As a *research consultant* for **Action Institute**, a renowned economic and political NGO in Milan 
-* As an *equity analyst* for **Wutis**, winning two pitching competitions with McKinsey.
+* As an *equity analyst* for **Wutis**, won two pitching competitions with McKinsey.
 
-Arriving to London for my Masters at LBS I am excited to learn more programming languages and how to use them to make more strategic business decisions!
+Arriving in London for my Master at LBS I am excited to learn more programming languages and how to use them to make more strategic business decisions!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ValeriaOpre_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
