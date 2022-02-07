@@ -26,7 +26,7 @@ experience:
     company: ACTION INSTITUTE
     company_url: 'http://www.actioninstitute.org/'
     company_logo: org-gc
-    location: California
+    location: Milan, ITaly
     date_start: '2021-01-02'
     date_end: '2021-07-01'
     description: |2-
@@ -37,14 +37,33 @@ experience:
         * Arranged and managed interviews and meetings, co-wrote weekly 
           reports sent to 500+ collaborators
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Equity Research Associate
+    company: WUTIS
+    company_url: 'https://wutis.at/'
+    company_logo: org-x
+    location: Vienna, Austria
+    date_start: '2020-10-01'
+    date_end: '2021-07-01'
+    description: Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
+    largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
+    for equity reports evaluated according to the official CFA.
+    
+ - title: Operations Management
+    company: Hotel Casagrande ★★★
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Bolzano, Italy
+    date_start: '2020-10-01'
+    date_end: '2020-03-01'
+    description: Helped a family run small-medium hospitality enterprise adapt to disruptive Covid-19 regulations
+     Responsibilities included:
+     
+        * Led and supervised transition from a B2C to a B2B business model from 2020-2021 to adapt to
+          disruption caused by pandemic and national restrictive measures for businesses
+        * Contacted and acquired new potential clients within the B2B sector, diversifying customer base
+        * Reduced staff turnover by introducing new workshops on sale techniques and investing in teambuilding
+          for employees 
+        
 
 design:
   columns: '2'
