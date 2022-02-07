@@ -47,3 +47,6 @@ We're an open source movement that depends on your support to stay online and th
 * [Version 5.0 Beta 3 (February 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.3&#x2F;)
 * [Version 5.0 Beta 2 (January 2021)](https:&#x2F;&#x2F;wowchemy.com&#x2F;blog&#x2F;v5.0.0-beta.2&#x2F;)
 <!--END_SECTION:news-->
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/585a9670-42d0-44a4-8637-1ef85e982093/deploy-status)](https://app.netlify.com/sites/valeriaopre/deploys)
