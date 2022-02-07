@@ -36,9 +36,17 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+My name is **Valeria Opre**, I am 24 years old and I grew up in the German speaking region of Italy, South Tyrol. I went to the Italian highschool *Liceo Scientifico Torricelli*.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+\
+I decided to move out and live in Vienna, where i first completed my Bachelors in *Political Science* and then graduated with honours in *Business, Economics and Social Sciences* at the Vienna University of Economics and Business. During this time I had the great chance to do an exchange semester at the SMU in Singapore.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before applying for my postgraduate studies in London I decided to pursue two internships to better shape my future goals: 
+
++ As a *research consultant* for **Action Institute**, a renowned economic and political NGO in Milan 
+
++ As an *equity analyst* for **Wutis**, winning two pitching competitions with McKinsey.
+
+Arriving to London for my Masters at LBS I am excited to learn more programming languages and how to use them to make more strategic business decisions!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
