@@ -2,7 +2,8 @@
 title: Valeria Opre
 role: ""
 avatar_filename: 11opre.png
-bio: sssss
+bio: An Analytics student with a drive for technology and finance. Located in
+  London, lived in four different countries!
 interests:
   - Artificial Intelligence
   - Computational Linguistics
