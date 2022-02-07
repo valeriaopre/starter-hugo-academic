@@ -58,13 +58,27 @@ experience:
     description: Helped a family run small-medium hospitality enterprise adapt to disruptive Covid-19 regulations
      Responsibilities included:
      
-        * Led and supervised transition from a B2C to a B2B business model from 2020-2021 to adapt to
+        * Leding and supervising transition from a B2C to a B2B business model from 2020-2021 to adapt to
           disruption caused by pandemic and national restrictive measures for businesses
-        * Contacted and acquired new potential clients within the B2B sector, diversifying customer base
-        * Reduced staff turnover by introducing new workshops on sale techniques and investing in teambuilding
+        * Contacteing and acquiring new potential clients within the B2B sector, diversifying customer base
+        * Reducing staff turnover by introducing new workshops on sale techniques and investing in teambuilding
           for employees 
-        
-
+- title: Operations Management
+    company: CIFE
+    company_url: ''
+    company_logo: org-x
+    location: Vienna, Austria
+    date_start: '2020-10-01'
+    date_end: '2020-03-01'
+    description: Leading European Agency that promotes educational know-how about international and European
+    issues
+     Responsibilities included:
+     
+        * Leding a team of three into organising panels with prominent figures of the European Institutions such as
+          the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City      
+        * Initiating the adoption of digitalisation within internal structure of company by creating databases for data
+          collection for better decision making
+          
 design:
   columns: '2'
 ---
