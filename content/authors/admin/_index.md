@@ -2,8 +2,7 @@
 title: Valeria Opre
 role: ""
 avatar_filename: 11opre.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: sssss
 interests:
   - Artificial Intelligence
   - Computational Linguistics
