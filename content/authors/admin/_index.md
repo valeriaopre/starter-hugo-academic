@@ -6,8 +6,8 @@ bio: An Analytics student with a drive for technology and finance. Located in
   London, lived in four different countries!
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Finance
+  - Technology
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,7 +30,7 @@ education:
       institution: "Vienna University "
       year: 2016
     - course: BA Political Science
-      institution: University of Vienna (Hauptuniversität Wien)
+      institution: "University of Vienna "
       year: 2015
 email: ""
 superuser: true
