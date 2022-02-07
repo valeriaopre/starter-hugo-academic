@@ -48,4 +48,4 @@ Before applying for my postgraduate studies in London I decided to pursue two in
 
 Arriving to London for my Masters at LBS I am excited to learn more programming languages and how to use them to make more strategic business decisions!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/[ValeriaOpre_CV.pdf](https://github.com/valeriaopre/starter-hugo-academic/blob/master/exampleSite/static/uploads/ValeriaOpre_CV.pdf "ValeriaOpre_CV.pdf").pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/ValeriaOpre_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
