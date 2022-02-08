@@ -80,7 +80,7 @@ for employees
         * Leding a team of three into organising panels with prominent figures of the European Institutions such as
 the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City      
         * Initiating the adoption of digitalisation within internal structure of company by creating databases for data
-collection for better decision making
+collection for better decision making.
           
 design:
   columns: '2'
