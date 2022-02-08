@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: Hì
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -47,12 +47,12 @@ reports sent to 500+ collaborators
     description: |2-
         Responsibilities included:
 
-        *Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
+        * Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
 largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
 for equity reports evaluated according to the official CFA.
     
  - title: Operations Management
-    company: Hotel Casagrande ★★★
+    company: Hotel Casagrande
     company_url: ''
     company_logo: org-x
     location: Bolzano, Italy
