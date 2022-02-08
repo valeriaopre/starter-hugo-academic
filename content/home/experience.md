@@ -33,9 +33,9 @@ experience:
         Responsibilities included:
         
         * Designed engagement tools to increase to communicate to audience,
-          increasing the visibility of publications by +15% in six months
+increasing the visibility of publications by +15% in six months
         * Arranged and managed interviews and meetings, co-wrote weekly 
-          reports sent to 500+ collaborators
+reports sent to 500+ collaborators
         
   - title: Equity Research Associate
     company: WUTIS
@@ -47,9 +47,9 @@ experience:
     description: |2-
         Responsibilities included:
 
-         Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
-         largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
-         for equity reports evaluated according to the official CFA.
+        *Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,
+largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions 
+for equity reports evaluated according to the official CFA.
     
  - title: Operations Management
     company: Hotel Casagrande ★★★
@@ -63,10 +63,10 @@ experience:
       Responsibilities included:
      
         * Leding and supervising transition from a B2C to a B2B business model from 2020-2021 to adapt to
-          disruption caused by pandemic and national restrictive measures for businesses
+disruption caused by pandemic and national restrictive measures for businesses
         * Contacteing and acquiring new potential clients within the B2B sector, diversifying customer base
         * Reducing staff turnover by introducing new workshops on sale techniques and investing in teambuilding
-          for employees 
+for employees 
 - title: Operations Management
     company: CIFE
     company_url: ''
@@ -78,9 +78,9 @@ experience:
      Responsibilities included:
      
         * Leding a team of three into organising panels with prominent figures of the European Institutions such as
-          the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City      
+the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City      
         * Initiating the adoption of digitalisation within internal structure of company by creating databases for data
-          collection for better decision making
+collection for better decision making
           
 design:
   columns: '2'
