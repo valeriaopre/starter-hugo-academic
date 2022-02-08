@@ -58,7 +58,7 @@ experience:
     description: |2-
         Responsibilities included:
         
-        * Leding a team of three into organising panels with prominent figures of the European Institutions such as the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City
+        * Leding a team of three into organising panels with prominent figures of the European Institutions such as the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City.
 
 design:
   columns: '2'
