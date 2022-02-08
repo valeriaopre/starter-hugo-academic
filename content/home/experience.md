@@ -59,8 +59,7 @@ for equity reports evaluated according to the official CFA.
     date_start: '2020-10-01'
     date_end: '2020-03-01'
     description: |2- 
-  
-      Responsibilities included:
+        Responsibilities included:
      
         * Leding and supervising transition from a B2C to a B2B business model from 2020-2021 to adapt to
 disruption caused by pandemic and national restrictive measures for businesses
@@ -76,7 +75,7 @@ for employees.
     date_start: '2020-10-01'
     date_end: '2020-03-01'
     description: |2-
-     Responsibilities included:
+        Responsibilities included:
      
         * Leding a team of three into organising panels with prominent figures of the European Institutions such as
 the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City      
