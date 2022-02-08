@@ -42,18 +42,18 @@ experience:
     company_logo: org-x
     location: California
     date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_end: '2016-2-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
- - title: Professor of Semiconductor Physics
-    company: University X
+ - title: Teacher of me
+    company: What H
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
+    location: Budapest
+    date_start: '2016-03-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: I was a very smart person.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
