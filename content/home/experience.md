@@ -66,7 +66,8 @@ for equity reports evaluated according to the official CFA.
 disruption caused by pandemic and national restrictive measures for businesses
         * Contacteing and acquiring new potential clients within the B2B sector, diversifying customer base
         * Reducing staff turnover by introducing new workshops on sale techniques and investing in teambuilding
-for employees 
+for employees.
+
 - title: Operations Management
     company: CIFE
     company_url: ''
