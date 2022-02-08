@@ -22,37 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Equity Research Associate
+    company: Wutis
+    company_url: 'https://wutis.at/'
+    company_logo: org-x
+    location: Vienna, Austria
+    date_start: '2020-10-01'
+    date_end: '2021-07-01'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Screened and suggested equities based on financial indicators for a €6b ESG fund of Erste Bank Group,largest Austrian bank, gaining exposure to different companies spanning 3 sectors. Participated and won McKinsey pitching competitions for equity reports evaluated according to the official CFA.
+
+  - title: Lead in Operations Management
+    company: Hotel Casagrande
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-2-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
- - title: Teacher of me
-    company: What H
+    location: Bolzano, Italy
+    date_start: '2020-03-01'
+    date_end: '2020-10-01'
+    description: |2- 
+        Responsibilities included:
+     
+        * Developed a Micrososft Power Automate based tool for the company to track Product Returns
+        * Helped in definining the new fully digital process and the information flow between teams
+
+     
+  - title: Operations Management
+    company: CIFE
     company_url: ''
-    company_logo: org-x
-    location: Budapest
-    date_start: '2016-03-01'
-    date_end: '2020-12-31'
-    description: I was a very smart person.
+    company_logo: 
+    location: Vienna
+    date_start: '2018-10-01'
+    date_end: '2019-06-31’
+    description: |2-
+        Responsibilities included:
+        
+        * Leding a team of three into organising panels with prominent figures of the European Institutions such as the High Representative of the EU for Foreign Affairs and the Minister of Foreign Affairs of Vatican City
+        * Initiating the adoption of digitalisation within internal structure of company by creating databases for data collection for better decision making.
 
 design:
   columns: '2'
