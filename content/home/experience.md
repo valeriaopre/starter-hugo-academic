@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: "Experience"
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -26,7 +26,7 @@ experience:
     company: ACTION INSTITUTE
     company_url: 'http://www.actioninstitute.org/'
     company_logo: org-gc
-    location: Milan, ITaly
+    location: Milan
     date_start: '2021-01-02'
     date_end: '2021-07-01'
     description: |2-
