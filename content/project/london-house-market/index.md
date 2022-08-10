@@ -8,9 +8,12 @@ featured: false
 tags:
   - Deep Learning
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Image from the Analysis
+  alt_text: Relationship between average household income and price of properties
+    sold in 2019 in a buyer.
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
