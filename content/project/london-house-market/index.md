@@ -4,6 +4,8 @@ subtitle: Investment Decision based on Estimation Engines
 date: 2022-08-10T18:45:48.242Z
 draft: false
 featured: false
+tags:
+  - DeepLearning
 image:
   filename: featured
   focal_point: Smart
