@@ -2,10 +2,11 @@
 title: London House Market
 subtitle: Investment Decision based on Estimation Engines
 date: 2022-08-10T18:45:48.242Z
+summary: Investment Decision based on Estimation Engines
 draft: false
 featured: false
 tags:
-  - DeepLearning
+  - Deep Learning
 image:
   filename: featured
   focal_point: Smart
